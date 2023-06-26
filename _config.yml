@@ -1,0 +1,31 @@
+# Site settings
+title: kwan2's Tech Blog
+email: jgh9987@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A simple, whitespace, helvetica based portfolio theme.
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  "https://kwan2.github.io" # the base hostname & protocol for your site
+github_username: kwan2
+
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
+
+# Pagination
+paginate: 15
+paginate_path: "/blog/page:num/"
+
+
+collections:
+  trobleshooting:
+    output: true
+    permalink: /trobleshooting/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /portfolio/:path/
+  # poetry:
+  #   output: true
+  #   permalink: /poetry/:path/
+
+
