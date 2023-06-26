@@ -60,6 +60,12 @@ permalink: /about/
 	역할 : API 개발, Ec2 서버 관리 <br/>
 	Github : [BetweenUs-Backend](https://github.com/kwan2/BetweenUs-Backend)
 
+<Br/>
+
+- 동국대학교 통합형 관리 웹서비스 (DonggukClick)<br/>
+	역할 : API 개발, CI/CD 및 인프라 아키텍쳐 설계 <br/>
+	Github : [Mcthemax-DonggukClick](https://github.com/kwan2/2023-1-OSSProj-M.C.theMax-7)
+
 
 
 
